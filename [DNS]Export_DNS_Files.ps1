@@ -1,4 +1,4 @@
-﻿# Descrição: Exportação dados DNS
+﻿# Descrição: Exportação dados do DNS diariamente para um arquivo txt
 # Data: Outubro 2018
 # Autor: Cristiane Pepita
 
